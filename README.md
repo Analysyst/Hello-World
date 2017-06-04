@@ -1,2 +1,2 @@
 # Hello-World
-This is not a cuddly-giggle type of repositiory.
+This is not a cuddly-giggle type of repository.
